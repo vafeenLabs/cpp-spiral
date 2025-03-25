@@ -1,5 +1,5 @@
 ﻿#include <iostream>
-#include<conio.h>
+// #include<conio.h>
 #include "names_of_functions.h"
 using std::cout;
 using std::cin;
@@ -57,6 +57,6 @@ int main()
 		cout << '\n';
 	}
 	cout << "Рабоат программы успешно завершена!\n\nСпасибо за работу!";
-	_getch();
+	// _getch();
 	return 0;
 }
